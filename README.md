@@ -1,11 +1,5 @@
 # Permanente 1b
 
-## Integrantes
-
-- Mariana Paula Caceres Urquizo
-- Jorge Manuel Nuñez Paucar
-- Camila Clari Orihuela Flores
-
 ## Descripción del programa
 Las función *euclidesExtendido* nos devolvera el mcd de los dos números pasados, y por punteros te devolverá el x e y.
 
