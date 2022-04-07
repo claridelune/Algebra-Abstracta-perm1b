@@ -35,13 +35,11 @@ Las función *euclidesExtendido* nos devolvera el mcd de los dos números pasado
 
     $ main.exe
 
-**otro**
-
 ## Ejemplo
 
 Input por medio del programa variables a, b.
 
-### Ouput
+### Output
 
 ```
 MCD(54, 36) = 18
