@@ -11,6 +11,10 @@ Las función *euclidesExtendido* nos devolvera el mcd de los dos números pasado
 
 ## Instrucciones para ejecutarlo
 
+### Python
+
+[Correr programa por medio de replit](https://replit.com/@milksake/Euclides-Python#main.py)
+
 ### C++
 
 [Correr programa por medio de replit](https://replit.com/@Camila-ClariCla/euclides-Extendido#main.cpp)
